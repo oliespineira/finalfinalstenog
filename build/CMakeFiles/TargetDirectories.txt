@@ -1,0 +1,3 @@
+/Users/javiercruz/Desktop/programming project/steganography/build/CMakeFiles/steg.dir
+/Users/javiercruz/Desktop/programming project/steganography/build/CMakeFiles/edit_cache.dir
+/Users/javiercruz/Desktop/programming project/steganography/build/CMakeFiles/rebuild_cache.dir
